@@ -60,6 +60,9 @@
     <ClInclude Include="Food.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="..\..\..\D_Downloads\T14-Snek-Start\Engine\SpriteCodex.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="DXErr.cpp">
@@ -90,6 +93,9 @@
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="Food.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\D_Downloads\T14-Snek-Start\Engine\SpriteCodex.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>

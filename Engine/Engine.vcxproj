@@ -136,6 +136,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClInclude Include="..\..\..\D_Downloads\T14-Snek-Start\Engine\SpriteCodex.h" />
     <ClInclude Include="Board.h" />
     <ClInclude Include="ChiliException.h" />
     <ClInclude Include="ChiliWin.h" />
@@ -152,6 +153,7 @@
     <ClInclude Include="Snake.h" />
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="..\..\..\D_Downloads\T14-Snek-Start\Engine\SpriteCodex.cpp" />
     <ClCompile Include="Board.cpp" />
     <ClCompile Include="DXErr.cpp" />
     <ClCompile Include="Food.cpp" />
